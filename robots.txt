@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://subhanayak422-a11y.github.io/Maa-bhadrakali-Maruti_Service/sitemap.xml
